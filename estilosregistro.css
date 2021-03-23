@@ -1,0 +1,65 @@
+body {
+    background: #0f4c81;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin: 0;
+    font-weight: bold;
+}
+
+#registrarse {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+#envoltura {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -165px;
+    margin-top: -210px;
+    width: 330px;
+}
+
+#contenedor {
+    background-color: #deddfa;
+    box-shadow: 3px 3px 10px 10px black;
+    border-radius: 10px;
+}
+
+#cabecera {
+    border-bottom: 5px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+label color: black;
+
+}
+input {
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px 1px black;
+    font: bold 12px sans-serif;
+    width: 250px;
+    background-color: #deddfa;
+    padding-left: 5px;
+    margin: 4px;
+}
+input#contraseña {
+    background: black;
+    padding-left: 25px;
+}
+.boton {
+    background: #ccc;
+    background: -webkit-linear-gradient(top, #fc6, #f63);
+    background: linear-gradient(top, #fc6, #f63);
+    color: black;
+    width: 120px;
+}
+.boton:active {
+    position: relative;
+    top: 3px;
+}
+#imagen {
+    width: 70px;
+}
